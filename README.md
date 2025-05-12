@@ -1,10 +1,8 @@
 # 🧠 EpilepTrack - AI EEG Triage for Emergency Neurology  
 *"No brain signal left unanswered"*  
 
-[![DOI](https://img.shields.io/badge/DOI-10.XXXXX/abcdef-blue)](https://doi.org/your_doi)  
 [![Demo Video](https://img.shields.io/badge/▶️_Clinical_Demo-Watch_Now-red)](https://drive.google.com/file/d/1edPEqpNOafQ3hIIFqfNFXzMfSM6Uznxq/view)  
-[![Deployment Roadmap](https://img.shields.io/badge/🚀_Deployment-Q4_2024-green)](DEPLOYMENT_LINK)  
-
+ 
 ![EpilepTrack Workflow](https://via.placeholder.com/1200x600?text=EEG+Acquisition→AI+Triage→Neurophysiologist+Validation)  
 *Developed in collaboration with Tunisian neurophysiologist at Hôpital Farhat Hached*
 
